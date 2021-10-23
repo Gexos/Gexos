@@ -6,7 +6,7 @@ My name is George and I am a certified computer and network technician living in
 
 You can contact me by sending an email to gexxos@gmail.com , for secure communication you can use My GPG public key avaliable [here](https://gist.github.com/Gexos/b76f0a80e900c2ebffcdd3040af03533).
 
-You can also find me on [twitter](https://twitter.com/theGexos), or you can read my [blog](https://gexos.org/).
+You can also find me on [twitter](https://twitter.com/theGexos), or you can read my [blog](https://gexos.gr/).
 
 
 
