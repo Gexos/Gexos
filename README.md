@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-My name is George and I am an IT technician living in Greece, I am heavily interested in various aspects of Computer and Network Security, especially in malware analysis and web application security.
+My name is George and I am an IT technician living in Greece, and I am heavily interested in various aspects of Computer and Network Security.
 
 ### Get in touch!
 
