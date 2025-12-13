@@ -10,7 +10,7 @@ Most of what I share here is made for real world troubleshooting: small utilitie
 - 🧪 Work in progress tools, test builds, and documentation  
 
 ## Toolbox
-- **OS:** Windows  
+- **OS:** Windows, Linux (basics: terminal, permissions, services)  
 - **Scripting / coding:** AutoIt, Python  
 - **Interests:** networking, security, automation, system diagnostics  
 
