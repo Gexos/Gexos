@@ -1,12 +1,31 @@
-### Hi there 👋 
+# Hi, I’m Giorgos 👋
 
-My name is Giorgos and I am an IT technician living in Greece, and I am heavily interested in various aspects of Computer and Network Security.
+IT Technician based in Greece 🇬🇷, into computer & network security and I like building practical, lightweight tools for Windows.
 
-### Get in touch!
+Most of what I share here is made for real world troubleshooting: small utilities, dashboards, and automation scripts. I prefer projects that are portable, straightforward, and don’t need a huge setup just to be useful.
 
-You can contact me by sending an email to gexxos@gmail.com , for secure communication you can use My GPG public key avaliable [here](https://gist.github.com/Gexos/b76f0a80e900c2ebffcdd3040af03533).
+## What you’ll find here
+- 🔧 Windows utilities & troubleshooting helpers  
+- 🛡️ Security focused learning projects (networking, system security, analysis)  
+- 🧪 Work in progress tools, test builds, and documentation  
 
-You can also find me on [twitter](https://twitter.com/theGexos), or you can read my [blog](https://gexos.org/).
+## Toolbox
+- **OS:** Windows  
+- **Scripting / coding:** AutoIt, Python  
+- **Interests:** networking, security, automation, system diagnostics  
+
+## Links
+- 🌐 GexSoft (projects/downloads): https://gexsoft.org  
+- 📝 Blog: https://www.gexos.org  
+- 🐦 X: https://x.com/theGexos  
+
+## Contact
+- 📧 Email: gexxos@gmail.com  
+- 🔐 GPG public key: https://gist.github.com/Gexos/b76f0a80e900c2ebffcdd3040af03533
+
+---
+
+
 
 
 
