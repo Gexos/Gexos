@@ -6,7 +6,7 @@ Most of what I share here is made for real world troubleshooting: small utilitie
 
 ## What you’ll find here
 - 🔧 Windows utilities & troubleshooting helpers  
-- 🛡️ Security focused learning projects (networking, system security, analysis)  
+- 🛡️ Security-focused learning projects  
 - 🧪 Work in progress tools, test builds, and documentation  
 
 ## Toolbox
