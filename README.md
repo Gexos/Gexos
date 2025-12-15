@@ -11,7 +11,7 @@ Most of what I share here is made for real world troubleshooting: small utilitie
 
 ## Toolbox
 - **OS:** Windows, Linux (basics: terminal, permissions, services)  
-- **Scripting / coding:** AutoIt, Python  
+- **Scripting/coding:** AutoIt, Python  
 - **Interests:** networking, security, automation, system diagnostics  
 
 ## Links
