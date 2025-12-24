@@ -10,7 +10,7 @@ Most of what I share is made for real-world troubleshooting: small utilities, da
 - ⚡ **Power Panel** — a lightweight Windows power utility (shutdown/restart/sleep/lock, etc.).
   - Repo: https://github.com/Gexos/power-panel
 - 🖥️ **System Information Dashboard** — a compact dashboard for system info & diagnostics.
-  - Repo: https://github.com/Gexos/system-information-dashboard
+  - Repo: https://github.com/Gexos/System-Info-Dashboard
 
 ## What you’ll find here
 - 🔧 Windows utilities & troubleshooting helpers  
