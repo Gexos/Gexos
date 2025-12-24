@@ -1,26 +1,34 @@
-Hi, I’m Giorgos 👋
+# Hi, I’m Giorgos 👋
 
-IT Technician based in Greece 🇬🇷, into computer & network security and I like building practical, lightweight tools for Windows.
+IT Technician based in Greece 🇬🇷 — into **computer & network security**, and I like building **practical, lightweight Windows tools**.
 
-Most of what I share here is made for real world troubleshooting: small utilities, dashboards, and automation scripts. I prefer projects that are portable, straightforward, and don’t need a huge setup just to be useful.
+Most of what I share is made for real-world troubleshooting: small utilities, dashboards, and automation scripts. I prefer projects that are **portable**, **straightforward**, and don’t need a huge setup just to be useful.
 
-I’m also into open-source, I like sharing code, learning in public, and contributing when I can.
+## Featured repos
+- 🛡️ **Hacking Tools Repository** — security learning notes + small tools/scripts (educational use).
+  - Repo: https://github.com/<your-username>/hacking-tools-repository
+- ⚡ **Power Panel** — a lightweight Windows power utility (shutdown/restart/sleep/lock, etc.).
+  - Repo: https://github.com/<your-username>/power-panel
+- 🖥️ **System Information Dashboard** — a compact dashboard for system info & diagnostics.
+  - Repo: https://github.com/<your-username>/system-information-dashboard
 
 ## What you’ll find here
-- 🔧 Windows utilities & troubleshooting helpers
-- 🛡️ Security-focused learning projects
-- 🧪 Work in progress tools, test builds, and documentation
+- 🔧 Windows utilities & troubleshooting helpers  
+- 🛡️ Security-focused learning projects (networking, system security, analysis)  
+- 🧪 Test builds, experiments, and documentation I maintain as I learn  
 
 ## Toolbox
-- **OS:** Windows, Linux (basics: terminal, permissions, services)
-- **Scripting/coding:** AutoIt, Python
-- **Interests:** networking, security, automation, system diagnostics
+- **OS:** Windows • Linux (basics: terminal, permissions, services)  
+- **Scripting / coding:** AutoIt • Python  
+- **Interests:** networking • security • automation • system diagnostics  
 
 ## Links
-- 🌐 GexSoft (projects/downloads): https://gexsoft.org
-- 📝 Blog: https://www.gexos.org
-- 🐦 X: https://x.com/theGexos
+- 🌐 GexSoft (projects/downloads): https://gexsoft.org  
+- 📝 Blog: https://www.gexos.org  
+- 🐦 X: https://x.com/theGexos  
 
 ## Contact
-- 📧 Email: gexxos@gmail.com
-- 🔐 GPG public key: https://gist.github.com/Gexos/b76f0a80e900c2ebffcdd3040af03533
+- 📧 Email: gexxos@gmail.com  
+- 🔐 GPG public key: https://gist.github.com/Gexos/b76f0a80e900c2ebffcdd3040af03533  
+
+---
