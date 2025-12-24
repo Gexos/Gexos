@@ -4,7 +4,7 @@ IT Technician based in Greece 🇬🇷, into computer & network security and I l
 
 Most of what I share here is made for real world troubleshooting: small utilities, dashboards, and automation scripts. I prefer projects that are portable, straightforward, and don’t need a huge setup just to be useful.
 
-I’m also into open-source — I like sharing code, learning in public, and contributing when I can.
+I’m also into open-source, I like sharing code, learning in public, and contributing when I can.
 
 ## What you’ll find here
 - 🔧 Windows utilities & troubleshooting helpers
