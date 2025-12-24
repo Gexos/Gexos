@@ -1,6 +1,6 @@
 # Hi, I’m Giorgos 👋
 
-IT Technician based in Greece 🇬🇷 — into **computer & network security**, and I like building **practical, lightweight Windows tools**.
+IT Technician based in Greece 🇬🇷, into **computer & network security**, and I like building **practical, lightweight Windows tools**.
 
 Most of what I share is made for real-world troubleshooting: small utilities, dashboards, and automation scripts. I prefer projects that are **portable**, **straightforward**, and don’t need a huge setup just to be useful.
 
@@ -11,7 +11,7 @@ Most of what I share is made for real-world troubleshooting: small utilities, da
 
 ## Toolbox
 - **OS:** Windows • Linux (basics: terminal, permissions, services)  
-- **Scripting / coding:** AutoIt • Python  
+- **Scripting/coding:** AutoIt • Python  
 - **Interests:** networking • security • automation • system diagnostics  
 
 ## Links
