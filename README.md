@@ -14,8 +14,7 @@ Most of what I share is made for real-world troubleshooting: small utilities, da
 - **Scripting/coding:** AutoIt • Python  
 - **Interests:** networking • security • automation • system diagnostics  
 
-## Links
-- 🌐 GexSoft (projects/downloads): https://gexsoft.org  
+## Links  
 - 📝 Blog: https://www.gexos.org  
 - 🐦 X: https://x.com/theGexos  
 
